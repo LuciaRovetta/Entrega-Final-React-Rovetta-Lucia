@@ -1,0 +1,5 @@
+[
+    {"idx":1, "nombre":"Campera Bomber Black", "descripcion":"Campera de ecocuero con bolsillos. MEGA canchera, con mangas globo, bolsillos en el frente y tira para ajustar en la cadera y hacerla BOMBER. Forrada por dentro!", "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/003/039/113/products/6c27f144-8667-4243-a842-2b8d9d28674c1-78106620c0e855bd6316880668392089-640-0.webp", "precio":43000, "categoria":"abrigos", "stock":10},
+    {"idx":2, "nombre":"Chaleco Montezuma", "descripcion":"Chaleco engomado color negro, con bolsillos, cierre y botones a tono.", "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/003/039/113/products/img_189011-619efc51cb152b920616817694969918-640-0.webp", "precio":30990, "categoria":"chalecos", "stock":9},
+    {"idx":3, "nombre":"Pant Megan", "descripcion":"Pantalón estilo calza, engomado con cierre en el lateral izquierdo. Tiene un tajo en la parte de abajo que le da toda la onda.", "imagen":"https://d3ugyf2ht6aenh.cloudfront.net/stores/003/039/113/products/c279f65a-2f0a-4f10-89b8-db9484b2cfc01-b24799ee6a8214beaf16869443832123-640-0.webp", "precio":14999, "categoria":"pantalones", "stock":8}
+]
